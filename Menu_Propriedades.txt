@@ -1,0 +1,15 @@
+Menu
+
+Pratos 
+Bebidas
+Drinks
+Sobremesa
+
+Nome (para cada um)
+Descrição (para cada um)
+Valor (para cada um)
+
+
+
+Adicionar produtos
+Consultar produtos
